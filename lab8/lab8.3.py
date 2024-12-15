@@ -8,7 +8,7 @@ def check(number):
         except ValueError:
             number = input('Введено некорректное значение ಥ_ಥ повторите попытку ')
 
-
+set_1 = set()
 set_1 = set()
 set_2 = set()
 while True:
