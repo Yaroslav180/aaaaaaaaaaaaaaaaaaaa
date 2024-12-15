@@ -31,3 +31,5 @@ if same_var == set():
     print('Нет элементов пренадлежащих обоим множествам')
 else:
     print(same_var)
+
+print('hello world')
